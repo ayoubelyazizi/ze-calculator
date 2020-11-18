@@ -84,6 +84,7 @@ for (let element of keys) {
 
         if (element == "AC"){
             historique.textContent = '';
+            previous.length = 0;
         }
     } )
 
