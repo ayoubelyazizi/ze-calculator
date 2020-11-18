@@ -14,22 +14,22 @@ Make a calculator that works fine.
 ## - **How i proceed :** 
 I created an html file that i linked with a javascript file and then i've never touched the html again. After doing this i created all my page with js that i used to do all my html div and the calculator whit all its buttons and events ecc..
 
-## Language 
+## - **Language :** 
 
 - HTML 5
 - CSS 3
 - JAVASCRIPT
 
-## Extra 
+## - **Extra :** 
 
 - Enter to show the result
 - One click on "AC" to clear the current operation
 - Double click on "AC" to clear it all
 - Historic of all the operations that you did
 
-## Preview
+## Preview :
 
 ![Preview](./preview.JPG)
 
-## Github Pages Link
+## Github Pages Link :
 [Pages](https://ayoubelyazizi.github.io/ze-calculator/)
