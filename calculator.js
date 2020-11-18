@@ -73,6 +73,9 @@ for (let element of keys) {
         if (e.code == "Enter") {
             let result_enter = safeEval(display.textContent)
             display.textContent = result_enter
+            display2.textContent = display2.textContent +'='+ display.textContent
+            previous.push(display2.textContent)
+            historique.textContent = previous;
         }
     })
 
