@@ -71,6 +71,7 @@ for (let element of keys) {
     buttons.addEventListener('keypress', function (e) {
         e.preventDefault();
         if (e.code == "Enter") {
+            display2.textContent = display.textContent;
             let result_enter = safeEval(display.textContent)
             display.textContent = result_enter
             display2.textContent = display2.textContent +'='+ display.textContent
