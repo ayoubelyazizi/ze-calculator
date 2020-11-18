@@ -10,9 +10,9 @@
 ### Create a calculator without typing any html but only using JavaScript to do this.
 
 ## - **Objective :** 
-### Make a calculator that works fine.
+Make a calculator that works fine.
 ## - **How i proceed :** 
-### I created an html file that i linked with a javascript file and then i've never touched the html again. After doing this i created all my page with js that i used to do all my html div and the calculator whit all its buttons and events ecc..
+I created an html file that i linked with a javascript file and then i've never touched the html again. After doing this i created all my page with js that i used to do all my html div and the calculator whit all its buttons and events ecc..
 
 ## Language 
 
