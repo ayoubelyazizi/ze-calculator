@@ -7,7 +7,7 @@
   
 
 ## - **Project details :** 
-### Create a calculator without typing any html but only using JavaScript to do this.
+Create a calculator without typing any html but only using JavaScript to do this.
 
 ## - **Objective :** 
 Make a calculator that works fine.
